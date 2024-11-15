@@ -1,0 +1,271 @@
+﻿
+
+/* Estilo general del cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;   /* Centrar horizontalmente */
+    align-items: center;       /* Centrar verticalmente si es posible */
+    min-height: 100vh;         /* Ocupa al menos toda la altura de la ventana */
+    overflow-y: auto;          /* Permite el desplazamiento vertical si el contenido es mayor que la pantalla */
+}
+
+/* Contenedor de la diapositiva */
+.slide {
+    display: none;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: none;
+    width: 100%;               /* Ajusta el ancho de la diapositiva */
+    max-width: 800px;          /* Ancho máximo para la diapositiva */+
+}
+
+.active {
+    display: block;
+}
+
+/* Estilo para los encabezados */
+h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Estilo para listas */
+ul {
+    list-style-type: disc;
+    padding-left: 40px;
+    text-align: left;
+    font-size: 18px;
+}
+
+/* Estilo para los elementos de lista */
+li {
+    margin-bottom: 10px;
+}
+
+/* Estilo para los enlaces */
+a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #0056b3;
+}
+
+/* Estilo para el texto en negrita */
+strong {
+    font-weight: bold;
+    color: #ff0000;
+}
+
+/* Ajustar la posición de los botones de navegación fuera del área del slide */
+.navigation {
+    position: fixed; /* Mantiene los botones en una posición fija en la pantalla */
+    bottom: 20px; /* Coloca los botones en la parte inferior de la pantalla */
+    width: 50%; /* Asegura que los botones ocupen todo el ancho de la pantalla */
+    display: flex;
+    justify-content: center; /* Centra los botones horizontalmente */
+    z-index: 1000; /* Asegura que los botones estén por encima de otros elementos */
+}
+
+
+#audio-player {
+    position: fixed;
+    top: 10px; /* Puedes ajustar la distancia desde la parte superior */
+    left: 50%; 
+    transform: translateX(-50%);
+    z-index: 1000; /* Asegúrate de que esté encima de otros elementos */
+    
+}
+.toggle-audio{
+    z-index: 1000; /* Asegura que los botones estén por encima de otros elementos */
+
+
+}
+
+
+/* Ajustar la posición del botón de Menú fuera del contenido del slide */
+.navigation a {
+    position: fixed; /* Mantiene el enlace de menú en una posición fija */
+    top: 20px; /* Coloca el botón de menú en la parte superior */
+    right: 20px; /* Alinea el botón de menú con el borde derecho */
+    background-color: #007bff; /* Aplica el color de fondo del botón */
+    color: white; /* Color del texto */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none; /* Remueve subrayado */
+}
+
+.navigation a:hover {
+    background-color: #0056b3; /* Color de fondo cuando el cursor está sobre el enlace */
+}
+
+/* Ajustar la posición del botón de Menú (span) fuera del contenido del slide */
+.stl_11.stl_12.stl_10 {
+    position: fixed; /* Mantiene el botón de menú en una posición fija */
+    top: 20px; /* Coloca el botón de menú en la parte superior de la pantalla */
+    right: 20px; /* Alinea el botón de menú con el borde derecho de la pantalla */
+    background-color: #007bff; /* Aplica el color de fondo del botón */
+    color: white; /* Color del texto */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none; /* Remueve el subrayado */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    cursor: pointer;
+}
+
+.stl_11.stl_12.stl_10:hover {
+    background-color: #0056b3; /* Color de fondo cuando el cursor está sobre el botón */
+}
+
+
+
+/* Estilo para el contenedor del botón */
+.button-container {
+    display: flex;
+    justify-content: center; /* Centra el botón horizontalmente */
+    margin-top: 20px; /* Ajusta el espacio desde la parte superior de la página */
+    position: fixed; /* Mantiene el botón fijo en la parte superior */
+    width: 100%; /* Asegura que el contenedor ocupe todo el ancho de la página */
+    top: 0; /* Posiciona el contenedor en la parte superior */
+    left: 0; /* Alinea el contenedor con el borde izquierdo de la página */
+    z-index: 1000; /* Asegura que el contenedor esté por encima de otros elementos */
+}
+
+/* Estilo para los botones */
+button {
+    position: relative;
+    z-index: 1001; /* Asegura que los botones estén por encima de otros elementos */
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+/* Ajustar el z-index de los elementos superpuestos */
+.stl_03, .stl_view {
+    position: relative;
+    z-index: 500; /* Asegura que estos elementos no cubran los botones */
+}
+
+/* Estilo para la imagen dentro del contenido */
+.stl_view img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+.menu-toggle {
+    padding: 1px;
+    color: white;
+    background-color:transparent;
+    border: 50px;
+    width: 5px; /* Ajusta el ancho deseado */
+    height: 5px; /* Ajusta el alto deseado */
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.menu-icon {
+    width: 50px; /* Ajusta el ancho deseado */
+    height: auto; /* Mantiene la proporción */
+    text-align: center;
+    position: fixed;
+    
+}
+
+.menu-content {
+    display: none; /* Oculto inicialmente */
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+    
+
+}
+
+.menu-content a {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    width: 100%;
+    transition: background-color 0.3s;
+}
+
+.menu-content a:hover {
+    background-color: #575757;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 100%;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.sidebar a {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 5px;
+    transition: background-color 0.3s;
+}
+
+
+
+
+
+
+/* Estilos para los botones */
+.nav-btn {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+}
+
+.nav-btn:hover {
+    background-color: #777;
+}
