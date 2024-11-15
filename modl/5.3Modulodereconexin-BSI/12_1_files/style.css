@@ -1,0 +1,218 @@
+﻿.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 49.58333em;
+	height: 70.16666em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 49.58333em;
+}
+.stl_06 {
+	height: 7.016666em;
+}
+.stl_ie .stl_06 {
+	height: 70.16666em;
+}
+.stl_07 {
+	-o-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+	-moz-transform: scale(1,1);
+	transform: scale(1,1);
+	-o-transform-origin: top left;
+	-webkit-transform-origin: top left;
+	-moz-webkit-transform-origin: top left;
+	-transform-origin: top left;
+	-ms-transform: matrix(1,0,0,1,0,-0);
+	-ms-transform-origin: top left;
+}
+@font-face {
+	font-family:"GLNPTI+Montserrat Regular";
+	src:url("../fonts/663fd29f-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_08 {
+	font-size: 2.725625em;
+	font-family: "GLNPTI+Montserrat Regular";
+	color: #FF0000;
+}
+.stl_09 {
+	line-height: 1.379em;
+}
+.stl_10 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_10 {
+	letter-spacing: 0px;
+}
+.stl_11 {
+	font-size: 1.899375em;
+	font-family: "GLNPTI+Montserrat Regular";
+	color: #FF0000;
+}
+@font-face {
+	font-family:"RWOFAJ+Montserrat Bold";
+	src:url("../fonts/e0f7b513-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_12 {
+	font-size: 0.36em;
+	font-family: "RWOFAJ+Montserrat Bold";
+	color: #000000;
+}
+.stl_13 {
+	letter-spacing: 0.1602em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: 0.923px;
+}
+.stl_14 {
+	letter-spacing: 0.1603em;
+}
+
+.stl_ie .stl_14 {
+	letter-spacing: 0.9235px;
+}
+@font-face {
+	font-family:"FKUVNV+League Spartan Regular";
+	src:url("../fonts/ac75e138-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_15 {
+	font-size: 0.60375em;
+	font-family: "FKUVNV+League Spartan Regular";
+	color: #000000;
+}
+.stl_16 {
+	line-height: 1.25em;
+}
+.stl_17 {
+	letter-spacing: 0.1609em;
+}
+
+.stl_ie .stl_17 {
+	letter-spacing: 1.5545px;
+}
+.stl_18 {
+	letter-spacing: 0.161em;
+}
+
+.stl_ie .stl_18 {
+	letter-spacing: 1.5548px;
+}
+.stl_19 {
+	font-size: 0.520625em;
+	font-family: "FKUVNV+League Spartan Regular";
+	color: #FF0000;
+}
+.stl_20 {
+	font-size: 0.520625em;
+	font-family: "FKUVNV+League Spartan Regular";
+	color: #000000;
+}
+.stl_21 {
+	letter-spacing: 0.1611em;
+}
+
+.stl_ie .stl_21 {
+	letter-spacing: 1.3417px;
+}
+.stl_22 {
+	font-size: 0.36em;
+	font-family: "GLNPTI+Montserrat Regular";
+	color: #000000;
+}
+.stl_23 {
+	font-size: 0.854375em;
+	font-family: "FKUVNV+League Spartan Regular";
+	color: #8E1419;
+}
+.stl_24 {
+	letter-spacing: 0.1605em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: 2.1937px;
+}
+.stl_25 {
+	font-size: 1.590625em;
+	font-family: "GLNPTI+Montserrat Regular";
+	color: #000000;
+}
+.stl_26 {
+	letter-spacing: 0.0118em;
+}
+
+.stl_ie .stl_26 {
+	letter-spacing: 0.3003px;
+}
+.stl_27 {
+	font-size: 1.02525em;
+	font-family: "FKUVNV+League Spartan Regular";
+	color: #8E1419;
+}
+.stl_28 {
+	letter-spacing: -0.3878em;
+}
+
+.stl_ie .stl_28 {
+	letter-spacing: -5.3007px;
+}
+.stl_29 {
+	font-size: 0.6525em;
+	font-family: "FKUVNV+League Spartan Regular";
+	color: #000000;
+}
+.stl_30 {
+	font-size: 0.87125em;
+	font-family: "FKUVNV+League Spartan Regular";
+	color: #8E1419;
+}
+.stl_31 {
+	font-size: 1.621875em;
+	font-family: "GLNPTI+Montserrat Regular";
+	color: #000000;
+}
+.stl_32 {
+	font-size: 1em;
+	font-family: "GLNPTI+Montserrat Regular";
+	color: #000000;
+}
+.stl_33 {
+	font-size: 1em;
+	font-family: "RWOFAJ+Montserrat Bold";
+	color: #000000;
+}

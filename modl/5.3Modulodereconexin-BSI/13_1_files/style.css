@@ -1,0 +1,191 @@
+﻿.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 49.58333em;
+	height: 70.16666em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 49.58333em;
+}
+.stl_06 {
+	height: 7.016666em;
+}
+.stl_ie .stl_06 {
+	height: 70.16666em;
+}
+.stl_07 {
+	-o-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+	-moz-transform: scale(1,1);
+	transform: scale(1,1);
+	-o-transform-origin: top left;
+	-webkit-transform-origin: top left;
+	-moz-webkit-transform-origin: top left;
+	-transform-origin: top left;
+	-ms-transform: matrix(1,0,0,1,0,-0);
+	-ms-transform-origin: top left;
+}
+@font-face {
+	font-family:"HVFDTF+Montserrat Regular";
+	src:url("../fonts/650ecf22-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_08 {
+	font-size: 0.68118em;
+	font-family: "HVFDTF+Montserrat Regular";
+	color: #000000;
+}
+.stl_09 {
+	line-height: 1.379em;
+}
+.stl_10 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_10 {
+	letter-spacing: 0px;
+}
+.stl_11 {
+	font-size: 1.811546em;
+	font-family: "HVFDTF+Montserrat Regular";
+	color: #FF0000;
+}
+@font-face {
+	font-family:"UTBEEB+League Spartan Regular";
+	src:url("../fonts/d8461714-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_12 {
+	font-size: 0.622328em;
+	font-family: "UTBEEB+League Spartan Regular";
+	color: #000000;
+}
+.stl_13 {
+	line-height: 1.25em;
+}
+.stl_14 {
+	letter-spacing: 0.161em;
+}
+
+.stl_ie .stl_14 {
+	letter-spacing: 1.6026px;
+}
+.stl_15 {
+	letter-spacing: 0.1609em;
+}
+
+.stl_ie .stl_15 {
+	letter-spacing: 1.6024px;
+}
+.stl_16 {
+	font-size: 1.573978em;
+	font-family: "HVFDTF+Montserrat Regular";
+	color: #FF0000;
+}
+.stl_17 {
+	letter-spacing: -0.0002em;
+}
+
+.stl_ie .stl_17 {
+	letter-spacing: -0.0045px;
+}
+.stl_18 {
+	font-size: 0.663942em;
+	font-family: "UTBEEB+League Spartan Regular";
+	color: #000000;
+}
+.stl_19 {
+	font-size: 0.90285em;
+	font-family: "HVFDTF+Montserrat Regular";
+	color: #000000;
+}
+@font-face {
+	font-family:"IMPCIH+BodoniFLF-Bold";
+	src:url("../fonts/b126f18f-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_20 {
+	font-size: 2.599375em;
+	font-family: "IMPCIH+BodoniFLF-Bold";
+	color: #000000;
+}
+.stl_21 {
+	line-height: 1.144em;
+}
+.stl_22 {
+	letter-spacing: 0.0798em;
+}
+
+.stl_ie .stl_22 {
+	letter-spacing: 3.3198px;
+}
+@font-face {
+	font-family:"UQMDVR+Arial MT Pro Bold";
+	src:url("../fonts/2767718e-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_23 {
+	font-size: 1.91625em;
+	font-family: "UQMDVR+Arial MT Pro Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_24 {
+	line-height: 1.241em;
+}
+@font-face {
+	font-family:"DTRWPO+Montserrat Bold";
+	src:url("../fonts/c9212c4e-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_25 {
+	font-size: 1.340625em;
+	font-family: "DTRWPO+Montserrat Bold";
+	color: #F83939;
+}
+.stl_26 {
+	letter-spacing: 0.1607em;
+}
+
+.stl_ie .stl_26 {
+	letter-spacing: 3.4474px;
+}
+.stl_27 {
+	font-size: 0.655em;
+	font-family: "HVFDTF+Montserrat Regular";
+	color: #000000;
+}
+.stl_28 {
+	font-size: 0.676875em;
+	font-family: "HVFDTF+Montserrat Regular";
+	color: #000000;
+}
