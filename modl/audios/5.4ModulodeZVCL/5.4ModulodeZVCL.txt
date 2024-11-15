@@ -1,0 +1,433 @@
+
+
+Bienvenido al Módulo de 
+ZVCL
+
+Este instructivo detalla los pasos a seguir para la ejecución de operaciones de ZVCL ( para las Zonas de Verificación y Control de Lecturas), esto incluyendo los recursos, materiales, herramientas y procedimientos necesarios para llevar a cabo la operación de manera eficiente y segura. El objetivo es garantizar la precisión en la verificación de lecturas y el control adecuado de los servicios, minimizando riesgos y asegurando la correcta aplicación de las normativas vigentes.
+
+Presiona el botón azul que dice siguiente para continuar
+
+
+___________________________________________
+
+Los temas que se verán en este módulo son los siguientes:
+
+A.   Atención al cliente y Honestidad en las 
+Operaciones
+B.    Materiales y Herramientas... Tipos de operaciones ZVCL 
+C.   Las Partes de un medidor de gas
+D.    Como se debe hacer el Registro Fotográfico
+E.   Troque de válvula
+F.   Prueba de fugas
+G.   Ejecución de la Hoja de Trabajo ( que es el HT)
+
+Y por ultimo la prueba o evaluación final 
+
+
+___________________________________________________
+
+Iniciamos con Atención al Cliente
+
+
+1. Presentación Cordial: El técnico debe presentarse al cliente de forma cordial y respetuosa, usando un tono amable y profesional. Es importante que el técnico se identifique claramente, mencionando su nombre y la empresa para la cual trabaja.
+
+2. Información Clarificada: El técnico debe comunicar claramente al cliente el motivo de su visita, especificando que es un representante de BSI Colombia en colaboración con Vanti. Debe mencionar el tipo de operación que se llevará a cabo: suspensión o reconexión del servicio de gas.
+
+3. Contexto de la Operación: Es importante que el técnico explique al cliente el contexto de la operación. Esto significa que debe comunicar el motivo de la suspensión, la necesidad de seguir las normativas establecidas, y cualquier otra información relevante que el cliente deba conocer.
+
+4. Preguntar al Cliente: Antes de iniciar la operación, el técnico debe preguntar al cliente si tiene alguna duda o pregunta relacionada con la suspensión del servicio. Esto demuestra un compromiso con la transparencia y la comunicación efectiva.
+
+5. Cortesía y Respeto: Durante toda la interacción, el técnico debe mostrar cortesía y respeto, independientemente de la actitud del cliente. Es importante mantener una postura profesional en todo momento.
+
+
+
+Por otro lado esta el tema de la Honestidad en las operaciones
+
+Ya que el técnico de BSI debe llevar a cabo todas las operaciones con total transparencia y honestidad, siguiendo las normativas y procedimientos establecidos sin excepción.
+
+como por ejemplo:
+
+El técnico Durante una suspensión, si el cliente ofrece algún tipo de soborno Se usa en la  evitar la suspensión, el técnico debe rechazarlo firmemente y reportar el incidente a sus superiores
+
+
+Durante una suspensión, si el cliente ofrece algún tipo de soborno para evitar la suspensión, el técnico debe rechazarlo firmemente y reportar el incidente a sus superiores
+
+
+___________________________________________________________
+
+
+
+
+Los Materiales y Herramientas que se utilizan al hacer la operación son los siguientes:
+ 
+- Primero...Precinto Aguamarina:  Este material se utiliza para sellar o asegurar las conexiones después de la reconexión, garantizando que no haya manipulaciones no autorizadas del equipo.
+
+- Segundo...Precinto Amarillo: El precinto amarillo se utiliza para asegurar la válvula de corte del medidor, evitando que el usuario pueda reabrir el suministro de gas.
+
+- Tercero...Llave de Cepo: La llave de cepo se utiliza para ajustar el cepo en la válvula de corte, asegurando un cierre hermético del suministro de gas.
+
+- Cuarto...Candados: se utilizan en ciertos tipos de ZVCL donde es necesario asegurar el acceso a los equipos o instalaciones, como en las operaciones de suspensión por no pago o en situaciones donde se requiere garantizar que el cliente no manipule el equipo sin autorización.
+
+
+
+__________________________________________________________________
+
+Continuamos con el Quinto... Detector de fugas:
+
+este Instrumento es utilizado para identificar la presencia de fugas de gas en el sistema antes y después de realizar una operación de suspensión, garantizando la seguridad del entorno.
+
+y por ultimo Hoja de trabajo (HT)
+: Registro detallado de las operaciones realizadas por los técnicos durante la ejecución de las ZVCL.
+
+
+.........
+
+Ahora veremos los Tipos de operaciones ZVCL  que se utilizan:
+
+Visita suspensión por error:   Se genera ya que el cliente informa que no tiene servicio y en el sistema no se evidencia ninguna ODS que haya generado alguna suspensión. 
+
+Visita reconectado no pasa gas:  Cliente informa que después de realizar la reconexión aún no tiene servicio.
+
+Visita cambio de dispositivo de seguridad:  El cliente solicita este tipo de operación para realizar un cambio de dispositivo de suspensión.
+
+Visita por daño en nicho:  El cliente reporta un daño nicho desde la realización de una operación donde hubo una afectación material en el centro de medición o nicho.
+
+Por ultimo...visita por daño en candado:  Este tipo de orden se genera ya que hubo un posible daño en el candando y cliente solícita la reposición de este.
+
+
+
+________________________________________________________________________________
+
+
+Ahora veremos como se debe hacer el Registro Fotográfico por cada tipo de operación:
+
+Iniciamos con el Registro Fotográfico para ZVCL SUSPENSIÓN POR ERROR:
+
+- Foto fachada 
+y acrílico: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+-  Última placa instalada por catastro: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+- Foto nicho antes de ser manipulado: este se utiliza Para: Operación efectiva y Operación no efectiva cuando aplique 
+
+- Centro de medición antes de ser manipulado (Nicho): este se utiliza Para: Operación efectiva, 
+Operación no efectiva (Cuando aplique)
+
+______________________________________________________________________________________
+
+
+
+Continuamos con el Odómetro: este debe mostrar el número de medidor, marca y lectura, este se utiliza Para Operación efectiva y Operación no efectiva (Cuando aplique)
+
+Fotos de prueba de fugas iniciales antes de manipular el centro de medición:  Aquí se deben realizar dos fotos donde se evidencien dos puntos diferentes donde se haga la prueba de fugas, este se utiliza Para Operación efectiva.
+
+FOTO DE Como se encontró la válvula de corte: Para Operación efectiva y Operación no efectiva.
+
+Pruebas de estanquidad: se deben tomar dos fotos:... una desde el minuto cero antes de realizar la prueba, y otra ya culminados los dos minutos de la prueba, este se utiliza Para Operación efectiva.
+
+Se debe tomar la foto donde se vea la Evidencia del precinto instalado de conector a conector... recuerda que el precinto debe ir instalado en dirección al conector de entrada, adicional la guaya debe pasar por los orificios de los conectores, este se utiliza Para: Operación efectiva y Operación No efectiva.
+
+_____________________________________________________________________________________
+
+de igual manera se deben realizar dos fotos donde se evidencien dos puntos diferentes donde se haga la prueba de fugas... este se utiliza Para: Operación efectiva.
+
+Foto final de como dejo el Centro de medicion ... este se utiliza Para: Operación efectiva y Operación No efectiva.
+
+Foto final de como dejo el Nicho. ... este se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+Foto de la Hoja de trabajo totalmente diligenciada y sin enmendaduras o tachones... se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+
+Por ultimo la Copia de la hoja de trabajo ... se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+________________________________________________________________________________________________
+
+
+
+ahora veremos el Registro Fotográfico  para ZVCL VALIDACION DE LECTURA Y VERIFICACION DE DATOS BASICOS:
+
+ Foto fachada 
+y acrílico: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+-  Última placa instalada por catastro: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+- Foto nicho antes de ser manipulado: este se utiliza Para: Operación efectiva y Operación no efectiva cuando aplique 
+
+- Centro de medición antes de ser manipulado (Nicho): este se utiliza Para: Operación efectiva, 
+Operación no efectiva (Cuando aplique)
+
+
+______________________________________________________________________________________________
+
+
+
+
+Continuamos con el Odómetro: este debe mostrar el número de medidor, marca y lectura ...este se utiliza Para: Operación efectiva y Operación no efectiva (Cuando aplique)
+
+Fotos de prueba de fugas :  Aqui se deben reliza la foto donde se evidencien dos puntos diferentes donde se haga la prueba de fugas... este se utiliza Para: Operación efectiva.
+
+Foto final de como dejo el Nicho. ... este se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+Foto de la Hoja de trabajo totalmente diligenciada y sin enmendaduras o tachones... se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+
+Por ultimo la Copia de la hoja de trabajo ... se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+_________________________________________________________________________________
+
+
+
+Continuamos con el  Registro Fotográfico para ZVCL,DAÑO EN NICHO
+
+
+Iniciamos con  Foto fachada y acrílico: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+Última placa instalada por catastro: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+- Foto nicho de Como se encontró ... este se utiliza Para: Operación efectiva y Operación no efectiva cuando aplique 
+
+- Centro de medición antes de ser manipulado (Nicho): este se utiliza Para: Operación efectiva y Operación no efectiva (Cuando aplique)
+
+- Fotos de prueba de fugas iniciales:  se debe evidenciar el 0 y hacia donde apunta el cuello de ganso del detector... este se utiliza Para: Operación efectiva.
+____________________________________________________________________________________
+
+
+
+
+Continuamos con Foto final de como dejo el Nicho. ... este se utiliza Para: Operación efectiva y Operación No efectiva.
+
+Odómetro: este debe mostrar el número de medidor, marca y lectura ...este se utiliza Para: Operación efectiva y Operación no efectiva (Cuando aplique)
+
+ 
+Foto de la Hoja de trabajo totalmente diligenciada y sin enmendaduras o tachones... se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+
+Por ultimo la  Copia de la hoja de trabajo ... se utiliza Para: Operación efectiva y Operación No efectiva.
+ 
+
+_______________________________________________________________________________________
+
+Ahora el Registro Fotográfico ZVCL VISITA CAMBIO DE DISPOSITIVO:
+
+ten en cuenta que En este tipo de operaciones, es fundamental validar en la observación del aplicativo lo que el cliente está solicitando. El cliente podría estar requiriendo una reconexión o, alternativamente, una suspensión del servicio.
+
+
+Por ejemplo: 
+
+
+En este tipo de operaciones.... Es fundamental validar en la observación del aplicativo lo que el cliente está solicitando. El cliente podría estar requiriendo una reconexión o, alternativamente, una suspensión del servicio Como se ve en la imagenes adjuntas.
+
+ya en otras En ocasiones: ...   La solicitud del cliente no se refleja claramente en el aplicativo. En tales casos, es necesario realizar una llamada telefónica para confirmar con precisión el procedimiento que el cliente desea que se lleve a cabo.
+
+
+Recuerda que  Sea el caso no se puede comunicar por el usuario, debe solicitar información a soporte (que es el Grupo de whatsapp).
+
+
+
+_________________________________________________________________________________
+
+
+
+Continuamos con el Registro Fotográfico de  ZVCL VISITA REPOCISION DE CANDADO:
+
+
+
+Iniciamos con  Foto fachada 
+y acrílico: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+-  Última placa instalada por catastro: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+- Foto nicho Antes de ser manupulado ... este se utiliza Para: Operación efectiva y Operación no efectiva cuando aplique 
+
+- Odómetro: este debe mostar el número de medidor, marca y lectura ...este se utiliza Para: Operación efectiva, 
+Operación no efectiva (Cuando aplique)
+
+____________________________________________________________________________________
+
+
+
+- Seguimos con las Fotos de prueba de fugas iniciales:  se debe evidenciar el 0 y hacia donde apunta el cuello de ganso del detector... este se utiliza Para Operación efectiva.
+
+- Foto del candado instalado en el nicho:  se debe observar el candado puesto en el nicho ... este se utiliza Para Operación efectiva.
+
+- Foto de la Hoja de trabajo totalmente diligenciada y sin enmendaduras o tachones... se utiliza Para Operación efectiva y Operación No efectiva.
+ 
+
+- Foto de Copia de la hoja de trabajo ... se utiliza Para Operación efectiva y Operación No efectiva.
+
+
+- Por ultimo foto de las llaves del candado bajo puerta con la copia de la hoja de trabajo (HT)... este se utiliza Para Operación efectiva y Operación no efectiva.
+
+
+_________________________________________________________________________________________________
+
+
+ahora veremos Registro Fotográfico para  ZVCL, VISITA NO PASA GAS:
+
+
+Foto fachada  y acrílico: este se utiliza Para Operación efectiva y Operación no efectiva  
+
+-  Última placa instalada por catastro: este se utiliza Para Operación efectiva y Operación no efectiva  
+
+- Foto nicho antes de ser manipulado: este se utiliza Para Operación efectiva y Operación no efectiva cuando aplique 
+
+- Centro de medición antes de ser manipulado (Nicho).... este se utiliza Para Operación efectiva y Operación no efectiva (Cuando aplique)
+
+______________________________________________________________________________________________
+
+
+Continuamos con el Odómetro: este debe Mostrar el número de medidor, marca y lectura ...este se utiliza Para Operación efectiva y Operación no efectiva (Cuando aplique)
+
+Fotos de prueba de fugas iniciales antes de manipular el centro de medición:  Aquí se deben realizar dos fotos donde se evidencien dos puntos diferentes donde se haga la prueba de fugas... este se utiliza Para Operación efectiva.
+
+Fotos donde  Se realiza desmonte de medidor:  aquí se debe evidenciar que no tenga ningún tipo de material en los conectores ... este se utiliza Para Operación efectiva y Operación no efectiva 
+
+Foto del Cuerpo del medidor instalado nuevamente: este se utiliza Para Operación efectiva.
+
+
+
+
+Pruebas de estanquidad de 12 minutos: se deben tomar dos fotos:... una desde el minuto cero antes de realizar la prueba, y otra ya culminados los doce minutos de la prueba. ... este se utiliza Para Operación efectiva.
+
+
+
+Se debe tomar la foto donde se vea la Evidencia del precinto instalado de conector a conector... recuerda que el precinto debe ir instalado en dirección al conector de entrada, adicional la guaya debe pasar por los orificios de los conectores. ... este se utiliza Para Operación efectiva y Operación No efectiva.
+
+_________________________________________________________________________________________
+
+
+Continuamos con las fotos de Precinto instalado: no debes olvidar que el precinto debe ir instalado en dirección al conector de entrada de gas, adicional la guaya debe pasar por los orificios de los conectores ... este se utiliza Para Operación efectiva.
+
+de igual manera se deben realizar dos fotos donde se evidencien dos puntos diferentes donde se haga la prueba de fugas donde también se debe evidenciar el 0 y hacia donde apunta el cuello de ganso del detector... este se utiliza Para Operación efectiva.
+
+Foto final de como dejo el Centro de medición ... este se utiliza Para Operación efectiva y Operación No efectiva.
+
+Foto final de como dejo el Nicho. ... este se utiliza Para Operación efectiva y Operación No efectiva.
+
+____________________________________________________
+
+Ya por ultimo se añaden estas dos ultimas fotos:
+ 
+Foto de la  Hoja de trabajo totalmente diligenciada y sin enmendaduras o tachones... se utiliza Para Operación efectiva y Operación No efectiva.
+ 
+
+Por ultimo la Copia de la hoja de trabajo... se utiliza Para Operación efectiva y Operación No efectiva.
+ 
+
+
+ya culminado el tema del registro fotográfico por cada tipo de ZVCL Ahora pasaremos al tema de, ¿Cómo se hace el troque de válvula?
+
+Aquí puedes ver la información presionando el botón de pasos a paso para ver el pdf y entender mejor el tema.
+
+__________________________________________________________________
+
+
+
+Ahora veremos el tema de las prueba de fugas :
+
+tanto Inicial como final
+
+Aquí El técnico debe realizar la prueba de fugas iniciales y finales en el conector de salida y el cuerpo del medidor.
+De igual manera se debe realizar el procedimiento correspondiente, para solucionarlas antes de finalizar la operación en cuanto marque fugas.
+
+
+
+_______________________________________________________________________
+
+Debemos saber como se debe diligenciar la hoja de trabajo
+
+1.Se registra cual es el tipo de operación que se va a ejecutar
+
+2. Se marca resultado de la operación 
+Si(Efectiva), No(No efectiva)
+
+3. Día que se ejecuta la operación
+
+4. Numero de cuenta de la operación a ejecutar
+
+5. Si es suspensión se marca el tipo de corte hecho
+
+Si es reconexión se anula el campo o se coloca el tipo de corte encontrado
+
+Si es ZVCL se marca el tipo de corte encontrado 
+
+6. Siendo el caso se pone el Numero de  
+-Cepo
+-Precinto 
+-Adhesivo
+
+
+7. Se deben escribir las novedades que se encuentran en el predio
+
+8. Sello o información del técnico Que va a realizar la operación
+
+9. Hora de inicio y fin de la operación
+
+10. Sentido en donde entra la acometida 
+
+
+11.  Se marca 8  cuando hay solo un medidor 
+Se marca 2  cuando hay mas de un medidor 
+
+
+12. Numero de anomalía en la operación
+
+13. No se usa en la  suspensiones...
+solo Se usa en las Reconexiones y ZVCL que son (No pasa gas y suspensión por error); para ello se debe hacer la Prueba de estanquidad que, Es exitosa cuando el medidor no litra 
+y Es defectuosa cuando si hay litraje
+
+
+OJO, Recuerda que siempre Todos los campos deben estar diligenciados
+
+______________________________________________________
+
+
+Ya por ultimo entramos a la prueba Final de ZVCL
+
+
+Aquí se verificara si tienes todos los conocimientos claros
+Si tienes alguna duda o inquietud pregúntale al jefe encargado de darte la inducción
+
+Solo debes  presionar el botón que dice  link prueba para iniciar
+
+Ten en cuenta que Debes pasar con un mínimo del 80% de la prueba para pasar.
+
+
+Una vez hallas terminado tu prueba presiona el botón de menú para continuar con la siguiente parte.
+
+...Buena suerte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

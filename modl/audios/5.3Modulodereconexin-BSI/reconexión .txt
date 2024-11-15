@@ -1,0 +1,189 @@
+p_1
+
+bienvenido al módulo de reconexiones.
+Este instructivo detalla los pasos a seguir para la ejecución de operaciones de reconexión por pago, incluyendo los recursos, materiales, herramientas y procedimientos necesarios para llevar a cabo la operación de manera eficiente y segura.
+______________________
+p_2
+
+aquí se tendrá en cuenta los siguientes puntos clave como lo son:
+punto A. atención al cliente: honestidad en las operaciones
+punto B. materiales y herramientas.
+punto C. Registro fotográfico.
+punto D. Partes de un medidor de gas.
+punto E. Ejecución de la operación.
+punto F. Prueba de fugas.
+Punto G.     Ejecución de la hoja de trabajo.
+Punto H. Prueba.
+_________________________________________________________________________________________________________________________________________________________
+
+p_3
+
+
+a Continuación conoceremos a detalle cada uno de los puntos claves mencionados anteriormente.
+
+
+En BSI Colombia, en colaboración con Vanti, nos esforzamos por brindar un servicio al cliente de alta calidad, basado en la transparencia y la honestidad. 
+Entendemos que la suspensión del servicio de gas puede ser una situación compleja, por lo que nuestros técnicos están capacitados para manejarla con profesionalismo y empatía.
+Para el punto A, veremos los siguientes pasos para brindar una Atención al cliente agradable y eficaz:
+paso 1: presentación cordial.
+El técnico debe presentarse al cliente de forma cordial y respetuosa, usando un tono amable y profesional. Es importante que el técnico se identifique claramente, mencionando su nombre y la empresa para la cual trabaja.
+paso 2: Información Clarificada.
+El técnico debe comunicar claramente al cliente el motivo de su visita, especificando que es un representante de BSI Colombia en colaboración con Vanti. Debe mencionar el tipo de operación que se llevará a cabo: suspensión o reconexión del servicio de gas.
+paso 3: Contexto de la Operación.
+Es importante que el técnico explique al cliente el contexto de la operación. Esto significa que debe comunicar el motivo de la suspensión, la necesidad de seguir las normativas establecidas, y cualquier otra información relevante que el cliente deba conocer.
+paso 4: Preguntar al Cliente.
+Antes de iniciar la operación, el técnico debe preguntar al cliente si tiene alguna duda o pregunta relacionada con la suspensión del servicio. Esto demuestra un compromiso con la transparencia y la comunicación efectiva.
+paso 5: Cortesía y Respeto.
+Durante toda la interacción, el técnico debe mostrar cortesía y respeto, independientemente de la actitud del cliente. Es importante mantener una postura profesional en todo momento.
+Siempre deber ser honesto en las Operaciones
+integridad con las operaciones. El técnico debe llevar a cabo todas las operaciones con total transparencia y honestidad, siguiendo las normativas y procedimientos establecidos sin excepción.
+ejemplo:  
+Durante una suspensión, si el cliente ofrece algún tipo de soborno para evitar la suspensión, el técnico debe rechazarlo firmemente y reportar el incidente a sus superiores.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_4
+
+En el punto B, veremos los materiales y herramientas que entrega BSI COLOMBIA S.A son:
+1. precinto agua marina: Este material se utiliza para sellar o asegurar las conexiones después de la reconexión, garantizando que no haya manipulaciones no autorizadas del equipo.
+2. Llave de cepo: SE utiliza para manipular válvulas o dispositivos de cierre en el centro de medición, permitiendo la apertura o cierre según sea necesario durante la reconexión.
+3. Adhesivo agua marina: Este adhesivo se utiliza para etiquetar o marcar los equipos después de la reconexión, indicando que la operación ha sido realizada y certificada por el técnico.
+4. Equipos móviles: Son dispositivos móviles que permiten a los técnicos acceder al aplicativo de movilidad para gestionar las operación y realizar registros en tiempo real. 
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_5
+
+5. detector de fugas: Aparato que se usa para identificar posibles fugas de gas en las conexiones y asegurar que no haya escapes después de realizar la reconexión.
+6. Hojas de trabajo (HT) :Documentos en los que los técnicos registran manualmente los detalles de la operación de reconexión, incluyendo observaciones, lecturas de medidores y resultados de pruebas.
+7. Acrílico: Se utiliza para proteger el centro de medición y las conexiones, asegurando que estén cubiertas y protegidas de elementos externos o manipulaciones
+oprime clic sobre la imagen y te dirigirá a un video sobre como se hace una reconexión en terreno.
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_6 
+
+
+En el punto C, veremos como se debe evidenciar el registro fotográfico.
+paso 1. Foto fachada y acrílico. sirve para operación efectiva y para operación no efectiva.
+paso 2. última placa instalada por catastro. sirve para operación efectiva y para operación no efectiva.
+paso 3. foto nicho antes de ser manipulado. sirve para operación efectiva y para operación no efectiva.
+paso 4. Centro de medición antes de ser manipulado (Nicho), sirve para operación efectiva y operación no efectiva cuando no aplica
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+p_7
+
+paso 5: Odometro: donde muestre numero de medidor, marca y lectura, se una en operaciones efectivas y no efectivas cuando no aplican
+paso 6: Fotos de prueba de fugas iniciales antes de manipular el centro de medición, sirve para operación efectiva.
+paso 7: Material encontrado segun el tipo de corte, sirve para operaciones efectivas.
+paso 8: Foto de apertura de válvula, sirve para operación efectiva
+
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_8
+
+paso 9: Prueba de estanqueidad, estas se miden en el minuto 0 y minuto 02, sirve para operación efectiva y no efectiva
+paso 10: Material instalado, no olvidar que el precinto debe ir instalado en dirección al conector de entrada de gas, adicional la guaya debe pasar por los orificios de los conectores .
+paso 11: Prueba de fugas finales, sirve para operación efectiva.
+paso 12: Foto final de como dejo el nicho.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+p_9
+
+paso 13:  Hoja de trabajo totalmente diligenciada y sin enmendaduras o tachones, sirve para operación efectiva y no efectiva.
+paso 14: Copia de la hoja de trabajo, sirve para operación efectiva y no efectiva
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_10
+
+en el punto D.     veremos las partes de un medidor de gas, que son: 
+el elevador, la válvula de corte, el regulador, el conector de entrada, el visor, éste está compuestro de la lectura, los litros, el odometro y el número del medidor.
+otros de los componentes que conforman el medidor de gas son: el cuerpo del medidor y el conector de salida.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_11
+
+en el punto E, conoceremos la ejecución de la operación, la cuál le daremos a conocer por medio de pasos.
+paso 1. Verificación de datos: como podemos ver en la imagen, aquí se evidencia que los datos asignados coincidan con la residencia.
+paso 2. Notificación al cliente: El técnico debe notificar al cliente acerca del procedimiento a realizar de acuerdo al protocolo de presentación.
+paso 3. identificación del centro de medición: Se identifica si el predio ya está en servicio, En caso de ser así no se realiza prueba de estanqueidad.
+aquí también El técnico debe identificar si el centro de medición es residencial, comercial o industrial. 
+paso 4. Verificación de estado del medidor: El técnico debe verificar si el medidor está suspendido por otra área. Si se encuentra en servicio, procede con el siguiente paso.
+
+Al evidenciar sello donde la operación sea realizada por otra área. Debe comunicarse para que le autoricen la anomalía
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_12
+
+paso 5. aquí se debe Realizar el registro fotográfico descrito anteriormente.
+paso 6. realizar prueba de fugas i iciales en el centro de medición.
+para ésto, utiliza el texapon, que es un detergente utilizado para crear burbuja cuando se presente una fuga. 
+también tenemos el detector de gas, que es un aparato electrónico que permite realizar la medición de concentración de gas.
+En caso de presentarse fugas, se debe realizar el siguiente procedimiento y no continuar con la operación.
+el procedimiento que se debe realizar en caso  de que se presente una fuga, seguir el procedimiento que indica la imagen.
+...
+paso 7. se retira el material de acuerdo al tipo de corte encontrado.
+como vemos en la imagen, el tipo de corte 3 es baja, el tipo de corte 4 es media, y el tipo de corte 8 es alta.
+...
+paso 8. se debe realizar la prueba de estanquedad y hermeticidad al final. También evidencia que el cronómetro muestre la diferencia de 2 minutos para tipo de corte 3, 4 y 8.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_13
+
+paso 9. Se realiza prueba de fugas final: esta prueba se debe realizar en conector de salida y en el cuerpo del medidor.
+paso 10. como podemos observar en la imagen, se debe ingresar información en el aplicativo: allí se debe registrar el resultado de la operación, es decir si se realizó de manera efectiva o no efectiva. el odómetro, el tipo de anomalía, el consecutivo de material instalado y retirado y observaciones.
+
+
+
+en el punto F, veremos las pruebas iniciales y finales de fugas. aquí El técnico debe realizar la prueba de fugas finales en el conector de salida y el cuerpo del medidor. Si se detectan fugas, se debe realizar el procedimiento correspondiente para solucionarlas antes de finalizar la operación.
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_14
+
+en el punto H se encuentra la ejecución de la hoja de trabajo, que la conforman las partes que vamos a explicar a continuación. éstas partes las podemos ver en la imagen.
+primero. en la parte de actividad, se debe registrar cuál es el tipo de operación que se va a ejecutar, si es suspensión  por falta de pago, reconexión o zvcl.
+segundo. en ese mismo apartado de actividad, se debe marcar el resultado de la operación, si es efectiva o no efectiva.
+tercero. llenar el ht con la fecha del día en que se ejecutó la operación.
+cuarto. se debe registrar el número de cuenta de la operación a ejecutar.
+quinto.
+Si es suspensión se marca el tipo de corte hecho. 
+Si es reconexión se anula el campo o se coloca el tipo de corte encontrado.
+Si es ZVCL se marca el tipo de corte encontrado.
+sexto. Siendo el caso, se pone el Numero de Cepo, Precinto y Adhesivo.
+séptimo. Se deben escribir las novedades que se encuentran en el predio.
+octavo. sello o información del técnico que va a realizar la  operación. 
+noveno. Hora de inicio y final de la operación
+décimo. Sentido en donde entra la acometida.
+Onceavo. Se marca 8  cuando hay solo un medidor. Se marca 2  cuando hay mas de un medidor.
+doceavo. Número de anomalía en la operación.
+Treceavo. No se usa en la  suspensiones no se usa en las Reconexiones- ZVCL  No pasa gas y suspensión por error. 
+la prueba de estanqueidad es exitosa cuando el medidor no litra. 
+es defectuosa cuando si hay litraje.
+presiona en el botón rojo para ver el video que te dará más información sobre lo que acabamos de explicarte.
+
+recuerda siempre que todos los campos deben estar diligenciados.
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+p_15
+ 
+llegamos al punto I, aquí evaluaremos todo lo que viste en éste tema de reconexión .
+
+presiona sobre el botón naranja, para dirigirte a la prueba.
+
+recuerda que debes pasar la prueba con 80 porciento como mínimo.
+
+¡BUENA SUERTE!

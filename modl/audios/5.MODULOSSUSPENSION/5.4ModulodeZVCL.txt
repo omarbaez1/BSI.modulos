@@ -1,0 +1,129 @@
+Bienvenido al Módulo de 
+ZVCL
+
+Este instructivo detalla los pasos a seguir para la ejecución de operaciones de ZVCL ( para las Zonas de Verificación y Control de Lecturas), esto incluyendo los recursos, materiales, herramientas y procedimientos necesarios para llevar a cabo la operación de manera eficiente y segura. El objetivo es garantizar la precisión en la verificación de lecturas y el control adecuado de los servicios, minimizando riesgos y asegurando la correcta aplicación de las normativas vigentes.
+
+Preciona el boton azul que dice siguiente para continuar
+
+
+___________________________________________
+
+Los temas que se verán en este modulo son los siguientes:
+
+A. Atención al cliente y Honestidad en las 
+Operaciones
+B. Materiales y Herramientas... Tipos de operaciones ZVCL 
+C. Las Partes de un medidor de gas
+D. Como se debe hacer el Registro Fotográfico
+E. Troque de válvula
+F. Prueba de fugas
+G. Ejecución de la Hoja de Trabajo ( que es el HT)
+
+Y por ultimo la prueba o evalucacion final 
+
+
+___________________________________________________
+
+Iniciamos con Atención al Cliente
+
+En BSI Colombia, en colaboración con Vanti, nos esforzamos por brindar un servicio al cliente de alta calidad, basado en la transparencia y la honestidad. 
+
+1. Presentación Cordial: El técnico debe presentarse al cliente de forma cordial y respetuosa, usando un tono amable y profesional. Es importante que el técnico se identifique claramente, mencionando su nombre y la empresa para la cual trabaja.
+
+2. Información Clarificada: El técnico debe comunicar claramente al cliente el motivo de su visita, especificando que es un representante de BSI Colombia en colaboración con Vanti. Debe mencionar el tipo de operación que se llevará a cabo: suspensión o reconexión del servicio de gas.
+
+3. Contexto de la Operación: Es importante que el técnico explique al cliente el contexto de la operación. Esto significa que debe comunicar el motivo de la suspensión, la necesidad de seguir las normativas establecidas, y cualquier otra información relevante que el cliente deba conocer.
+
+4. Preguntar al Cliente: Antes de iniciar la operación, el técnico debe preguntar al cliente si tiene alguna duda o pregunta relacionada con la suspensión del servicio. Esto demuestra un compromiso con la transparencia y la comunicación efectiva.
+
+5. Cortesía y Respeto: Durante toda la interacción, el técnico debe mostrar cortesía y respeto, independientemente de la actitud del cliente. Es importante mantener una postura profesional en todo momento.
+
+
+
+Por otro lado esta el tema de la Honestidad en las operaciones
+
+Ya que el técnico de BSI debe llevar a cabo todas las operaciones con total transparencia y honestidad, siguiendo las normativas y procedimientos establecidos sin excepción.
+
+como por ejemplo:
+
+El técnico Durante una suspensión, si el cliente ofrece algún tipo de soborno Se usa en la  evitar la suspensión, el técnico debe rechazarlo firmemente y reportar el incidente a sus superiores
+
+
+___________________________________________________________
+
+
+
+
+Los Materiales y Herramientas que se utilizan al hacer la operacion son los siguientes:
+ 
+- Primero...Precinto Aguamarina:  Este material se utiliza para sellar o asegurar las conexiones después de la reconexión, garantizando que no haya manipulaciones no autorizadas del equipo.
+
+- Segundo...Precinto Amarillo: El precinto amarillo se utiliza para asegurar la válvula de corte del medidor, evitando que el usuario pueda reabrir el suministro de gas.
+
+- Tercero...Llave de Cepo: La llave de cepo se utiliza para ajustar el cepo en la válvula de corte, asegurando un cierre hermético del suministro de gas.
+
+- Cuarto...Candados: se utilizan en ciertos tipos de ZVCL donde es necesario asegurar el acceso a los equipos o instalaciones, como en las operaciones de suspensión por no pago o en situaciones donde se requiere garantizar que el cliente no manipule el equipo sin autorización.
+
+
+
+__________________________________________________________________
+
+Continuamos con el Quinto... Detector de fugas:
+
+este Instrumento es utilizado para identificar la presencia de fugas de gas en el sistema antes y después de realizar una operación de suspensión, garantizando la seguridad del entorno.
+
+y por ultimo Hoja de trabajo (HT)
+: Registro detallado de las operaciones realizadas por los técnicos durante la ejecución de las ZVCL.
+
+
+.........
+
+Ahora veremos los Tipos de operaciones ZVCL  que se utilizan:
+
+Visita suspensión por error:   Se genera ya que el cliente informa que no tiene servicio y en el sistema no se evidencia ninguna ODS que haya generado alguna suspensión. 
+
+Visita reconectado no pasa gas:  Cliente informa que después de realizar la reconexión aún no tiene servicio.
+
+Visita cambio de dispositivo de seguridad:  El cliente solicita este tipo de operación para realizar un cambio de dispositivo de suspensión.
+
+Visita por daño en nicho:  El cliente reporta un daño nicho desde la realización de una operación donde hubo una afectación material en el centro de medición o nicho.
+
+Por ultimo...visita por daño en candado:  Este tipo de orden se genera ya que hubo un posible daño en el candando y cliente solícita la reposición de este.
+
+
+
+________________________________________________________________________________
+
+
+Ahora vermos como se debe hacer el Registro Fotográfico por cada tipo de operacion:
+
+Iniciamos con el Registro Fotográfico para ZVCL SUSPENSIÓN POR ERROR:
+
+- Foto fachada 
+y acrílico: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+-  Última placa instalada por catastro: este se utiliza Para: Operación efectiva y Operación no efectiva  
+
+- Foto nicho antes de ser manipulado: este se utiliza Para: Operación efectiva y Operación no efectiva cuando aplique 
+
+- Centro de medición antes de ser manipulado (Nicho): este se utiliza Para: Operación efectiva, 
+Operación no efectiva (Cuando aplique)
+
+______________________________________________________________________________________
+
+
+
+Continuamos con el Odómetro: este debe mostar el número de medidor, marca y lectura este se utiliza Para: Operación efectiva, 
+Operación no efectiva (Cuando aplique)
+
+Fotos de prueba de fugas iniciales antes de manipular el 
+centro de medición:  Aqui se deben relizar dos foton con que tengan un d
+
+
+ 
+
+
+
+
+
+
