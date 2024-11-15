@@ -1,0 +1,201 @@
+﻿.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 49.58333em;
+	height: 70.16666em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 49.58333em;
+}
+.stl_06 {
+	height: 7.016666em;
+}
+.stl_ie .stl_06 {
+	height: 70.16666em;
+}
+.stl_07 {
+	-o-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+	-moz-transform: scale(1,1);
+	transform: scale(1,1);
+	-o-transform-origin: top left;
+	-webkit-transform-origin: top left;
+	-moz-webkit-transform-origin: top left;
+	-transform-origin: top left;
+	-ms-transform: matrix(1,0,0,1,0,-0);
+	-ms-transform-origin: top left;
+}
+@font-face {
+	font-family:"NNUKMD+Montserrat-Regular";
+	src:url("../fonts/5e74f59c-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_08 {
+	font-size: 0.639711em;
+	font-family: "NNUKMD+Montserrat-Regular";
+	color: #000000;
+}
+.stl_09 {
+	line-height: 1.2em;
+}
+.stl_10 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_10 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"DPKHRC+Montserrat-Bold";
+	src:url("../fonts/449d0e06-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_11 {
+	font-size: 0.82875em;
+	font-family: "DPKHRC+Montserrat-Bold";
+	color: #FF0000;
+}
+.stl_12 {
+	font-size: 1.358125em;
+	font-family: "DPKHRC+Montserrat-Bold";
+	color: #000000;
+}
+@font-face {
+	font-family:"TPNOUV+CocomatPro-Bold";
+	src:url("../fonts/b636d06d-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_13 {
+	font-size: 1.355625em;
+	font-family: "TPNOUV+CocomatPro-Bold";
+	color: #000000;
+}
+.stl_14 {
+	line-height: 1.322754em;
+}
+.stl_15 {
+	letter-spacing: 0.161em;
+}
+
+.stl_ie .stl_15 {
+	letter-spacing: 3.4922px;
+}
+@font-face {
+	font-family:"UIKDNK+OpunMai-700";
+	src:url("../fonts/aa72ef4c-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_16 {
+	font-size: 0.860169em;
+	font-family: "UIKDNK+OpunMai-700";
+	color: #000000;
+}
+.stl_17 {
+	line-height: 2em;
+}
+.stl_18 {
+	letter-spacing: -0.0001em;
+}
+
+.stl_ie .stl_18 {
+	letter-spacing: -0.0015px;
+}
+@font-face {
+	font-family:"PGDABC+OpunMai-400";
+	src:url("../fonts/80695a81-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_19 {
+	font-size: 0.554275em;
+	font-family: "PGDABC+OpunMai-400";
+	color: #000000;
+}
+@font-face {
+	font-family:"LIPEVK+BERNIERRegular-Regular";
+	src:url("../fonts/95357f54-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_20 {
+	font-size: 3.823417em;
+	font-family: "LIPEVK+BERNIERRegular-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_21 {
+	font-size: 0.658671em;
+	font-family: "NNUKMD+Montserrat-Regular";
+	color: #000000;
+}
+.stl_22 {
+	font-size: 0.679634em;
+	font-family: "UIKDNK+OpunMai-700";
+	color: #000000;
+}
+.stl_23 {
+	font-size: 0.895345em;
+	font-family: "UIKDNK+OpunMai-700";
+	color: #000000;
+}
+.stl_24 {
+	font-size: 4.016562em;
+	font-family: "LIPEVK+BERNIERRegular-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_25 {
+	font-size: 1.435em;
+	font-family: "LIPEVK+BERNIERRegular-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_26 {
+	font-size: 1.590625em;
+	font-family: "DPKHRC+Montserrat-Bold";
+	color: #000000;
+}
+.stl_27 {
+	font-size: 1.08375em;
+	font-family: "DPKHRC+Montserrat-Bold";
+	color: #000000;
+}
+.stl_28 {
+	font-size: 0.668332em;
+	font-family: "NNUKMD+Montserrat-Regular";
+	color: #000000;
+}
+.stl_29 {
+	font-size: 0.699254em;
+	font-family: "NNUKMD+Montserrat-Regular";
+	color: #000000;
+}
+.stl_30 {
+	font-size: 1.167132em;
+	font-family: "NNUKMD+Montserrat-Regular";
+	color: #000000;
+}
