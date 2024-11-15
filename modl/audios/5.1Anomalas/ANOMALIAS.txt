@@ -1,0 +1,260 @@
+﻿P_0
+
+Antes de ver los tipos de anomalías debemos concoer la partes del medidor de gas . que estas son: 
+el elevador, la válvula de corte, el regulador, el conector de entrada, el visor, éste está compuestro de la lectura, los litros, el odometro y el número del medidor.
+otros de los componentes que conforman el medidor de gas son: el cuerpo del medidor y el conector de salida.
+
+____________________________________________________________________________________________________
+P_1
+A CONTINUACIÓN, VEREMOS LOS TIPOS DE ANOMALÍAS QUE MÁS SE ENCUENTRAN AL MOMENTO DE REALIZAR UNA OPERACIÓN. ÉSTAS SE IDENTIFICAN POR UN NÚMERO.
+ANOMALÍA NÚMERO TRES.
+FACTURA CANCELADA: 
+Esta anomalía se utiliza cuando el técnico llega al predio para realizar la suspensión del servicio y el cliente presenta un comprobante de pago. 
+Este tipo de anomalía se aplica en operaciones de suspensión (DCOO), donde es necesario cerrar la operación de manera no efectiva.
+
+ANOMALÍA NÚMERO DOCE.
+BYPASS: 
+Se refiere al desvío del flujo de gas desde la red externa de distribución hacia la instalación interna del inmueble, evitando que el gas pase a través del medidor. Este tipo de anomalía se utiliza en operaciones de suspensión (DCOO), reconexión (RCOO) y en visitas para la validación de lectura (ZVCL).
+La Suspensión (DCOO): Se cierra de manera no efectiva y la reconexión (RCOO) y validación de lectura (ZVCL): Se cierra de manera  efectiva.
+
+__________________________________________________________________________________________________________________________________________________________
+P_2
+
+ANOMALÍA NÚMERO VEINTE.
+ODOMETRO AVERIADO: 
+El técnico llega al predio, y al validar el odómetro, no puede obtener una lectura correcta, se registra esta anomalía. 
+Este tipo de anomalía se aplica a todas las operaciones de suspensión, reconexión y visitas de validación de lectura. y debe cerrarse de manera efectiva.
+
+
+ANOMALÍA NÚMERO VEINTIUNO.
+AFECTACION VISOR: 
+Significa que, cuando el técnico llega al predio y, al validar el odómetro no puede obtener una lectura porque este se encuentra apagado, se registra esta anomalía. 
+Esta anomalía se aplica a todas las operaciones, incluyendo suspensiones; reconexiones y visitas de validación de lectura; y debe cerrarse de manera efectiva.
+
+ANOMALÍA NÚMERO VEINTIDOS.
+CRISTAL O VISOR ROTO: 
+Se registra esta anomalía cuando el técnico llega al predio y encuentra el visor del odómetro roto al validar la lectura. 
+Esta anomalía se aplica a todas las operaciones, incluyendo suspensiones; reconexiones y visitas de validación de lectura, y debe cerrarse de manera efectiva.
+
+___________________________________________________________________________________________________________________________________________________________
+
+P_3
+
+ANOMALÍA NÚMERO VEINTITRÉS.
+ESFERAS ILEGIBLES O LECTURA ILEGIBLE: 
+Se registra esta anomalía cuando el técnico llega al predio y encuentra el odómetro cubierto de pintura, lo que hace que la lectura sea ilegible. 
+Este tipo de anomalía se aplica a todas las operaciones, incluyendo suspensiones; reconexiones y visitas de validación de lectura, y debe cerrarse de manera efectiva.
+
+
+ANOMALÍA NÚMERO VEINTICUATRO.
+SIN ODOMETRO: 
+Se reporta esta anomalía cuando el técnico llega al predio para ejecutar la operación y encuentra que el medidor no tiene odómetro. 
+Esta anomalía se aplica a todas las operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura, y debe cerrarse de manera efectiva.
+
+ANOMALÍA NÚMERO VEINTI SEIS.
+Válvula de corte mal orientada: 
+Se identifica cuando el técnico inspecciona el nicho y encuentra la válvula ubicada detrás del cuerpo del medidor, lo que impide realizar el procedimiento en varios casos. 
+Esta anomalía afecta todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. En la cual se debe cerrar de manera efectiva y no efectiva dependiendo si se puede manipular la válvula de corte. 
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+P_4
+
+ANOMALÍA NÚMERO VEINTI SIETE.
+CONECTORES OXIDADOS PARTIDOS NO SUELTAN: 
+Se registra cuando el técnico se dispone a realizar la ejecución correspondiente y, al intentar desconectar los conectores, se encuentra con que están oxidados o demasiado ajustados, lo que impide su manipulación para el desmonte del medidor. 
+Esta anomalía se presenta en operaciones de visitas de validación de lectura, donde es crucial que se cierren de manera efectiva.
+
+
+ANOMALÍA NÚMERO TREINTA Y UNO .
+DIRECCIÓN NO LOCALIZADA: 
+Este registro se utiliza cuando el técnico se dirige al predio, y al estar en la zona no logra localizar la dirección. 
+Se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Estas incidencias se cierran como no efectivas.
+
+ANOMALÍA NÚMERO TREINTA Y DOS .
+DIRECCIÓN INCORRECTA: 
+Este registro se utiliza cuando el técnico llega al predio y encuentra una dirección diferente a la indicada. 
+Se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Estas incidencias se cierran como no efectivas.
+
+__________________________________________________________________________________________________________________________________________________________
+
+P_5
+
+ANOMALÍA NÚMERO CUARENTA Y UNO.
+MEDIDOR LEVANTADO: 
+Este registro se utiliza cuando el técnico se acerca al predio y no encuentra el medidor o solo encuentra la válvula. 
+En estos casos, es recomendable consultar con el área de soporte para confirmar que el medidor haya sido levantado. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. Se cierra tanto de manera efectiva como no efectiva.
+
+
+
+ANOMALÍA NÚMERO CUARENTA Y CUATRO.
+PREDIO DEMOLIDO: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente y evidencia que el predio ha sido demolido. 
+Este tipo de anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se debe cerrar de manera efectiva o no efectiva.
+
+
+ANOMALÍA NÚMERO CUARENTA Y CINCO.
+PREDIO DESHABITADO: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente y constata que el predio está desocupado. 
+Este tipo de anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se debe cerrar de manera efectiva o no efectiva.
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+P_6
+
+ANOMALÍA NÚMERO CUARENTA Y SEIS.
+PREDIO EN REMODELACIÓN: 
+Este registro se utiliza cuando el técnico se acerca al predio y constata que está en proceso de remodelación. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se debe cerrar de manera efectiva o no efectiva.
+
+
+ANOMALÍA NÚMERO CINCUENTA.
+MEDIDOR DE DIFÍCIL ACCESO: 
+Este registro se utiliza cuando el técnico se acerca al predio y constata que el medidor es de difícil acceso, lo que dificulta su intervención. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. Se puede cerrar de manera efectiva o no efectiva.
+
+
+ANOMALÍA NÚMERO CINCUENTA Y UNO.
+ADMINISTRACIÓN O PORTERÍA NO PERMITEN EL INGRESO: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente y constata que la portería no le permite el ingreso debido a la hora. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. Se cierra de manera no efectiva.
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+P_7
+
+ANOMALÍA NÚMERO CINCUENTA Y TRES.
+INSTALACIÓN A MÁS DE 2M DE ALTURA O EN TERRAZAS: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente y constata que los medidores están ubicados en terrazas o a una altura, lo que impide realizar la intervención. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se cierra de manera efectiva o no efectiva.
+
+
+
+ANOMALÍA NÚMERO CINCUENTA Y CINCO.
+MEDIDOR ENCERRADO: 
+Este registro se utiliza cuando el técnico se acerca al predio y constata que el medidor está encerrado dentro de la propiedad. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se puede cerrar de manera efectiva o no efectiva.
+
+
+ANOMALÍA NÚMERO CINCUENTA Y SEIS.
+ZONA GEOGRÁFICA DE DIFÍCIL ACCESO: 
+Este registro se utiliza cuando el técnico se dirige al predio y constata que no puede acceder debido a condiciones como escaleras difíciles o la falta de una vía adecuada. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se puede cerrar de manera efectiva o no efectiva.
+
+__________________________________________________________________________________________________________________________________________________________
+
+P_8
+
+ANOMALÍA NÚMERO CINCUENTA Y SIETE.
+NICHO SIN DIMENSIONES REQUERIDAS: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente y constata que el medidor no cuenta con las dimensiones necesarias para instalar el material. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se puede cerrar de manera efectiva o no efectiva.
+
+
+
+ANOMALÍA NÚMERO CINCUENTA Y OCHO.
+IMPOSIBILIDAD POR OBSTÁCULOS: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente y constata que hay obstáculos que impiden realizar la operación. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se cierra de manera no efectiva.
+
+
+ANOMALÍA NÚMERO CINCUENTA Y NUEVE.
+NICHO CON CANDADO: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente, en donde encuentra el nicho cerrado con un candado, impidiendo así la correcta realización de la operación. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se puede cerrar de manera efectiva o no efectiva.   
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+P_9
+
+ANOMALÍA NÚMERO SESENTA Y UNO.
+61 NICHO SELLADO CON CEMENTO, LÁMINA O CHAPA: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación correspondiente y encuentra el nicho sellado, lo que impide la realización de la intervención. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se puede cerrar de manera efectiva o no efectiva.
+
+
+
+ANOMALÍA NÚMERO SETENTA.
+NÚMERO DE MEDIDOR ERRÓNEO: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación y encuentra que el medidor no corresponde con la información registrada. 
+En estos casos, debe validar con el área de soporte para confirmar si ha habido un cambio de medidor. Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se puede cerrar de manera efectiva o no efectiva.
+
+
+ANOMALÍA NÚMERO SETENTA Y CUATRO.
+PREDIO CON SERVICIO: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación y encuentra el medidor con la válvula o maneral abierto. 
+Esta anomalía se aplica a operaciones de reconexión y visitas de validación de lectura, y se puede cerrar de manera efectiva.
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+P_10
+
+ANOMALÍA NÚMERO CIENTO SETENTA Y TRES.
+OPERACIÓN REALIZADA POR OTRA ÁREA: 
+Esta anomalía se reporta cuando el técnico se acerca a realizar la operación y encuentra que el medidor tiene un material instalado que no corresponde a lo que se utiliza por parte de BSI. 
+Esta anomalía se aplica a todo tipo de operaciones, incluyendo suspensiones, reconexiones y visitas de validación de lectura. 
+Se cierra de manera no efectiva.
+
+
+ANOMALÍA NÚMERO CIENTO SETENTA Y OCHO.
+CLIENTE NO PERMITE EJECUTAR OPERACIÓN: 
+Esta anomalía se reporta cuando el técnico intenta realizar una operación y el cliente se niega a permitirla. 
+Aplica a todo tipo de operaciones, como suspensiones, reconexiones y visitas para la validación de lectura. 
+Estas incidencias se cierran de manera no efectiva.
+
+
+ANOMALÍA NÚMERO CIENTO OCHENTA Y SIETE.
+SIN VÁLVULA DE CORTE: 
+Este registro se utiliza cuando el técnico llega al predio y verifica que no puede realizar la operación debido a la ausencia de un regulador con válvula de corte en el medidor. 
+Esta anomalía es aplicable a todo tipo de operaciones, como suspensiones, reconexiones y visitas para la validación de lectura. 
+Estas incidencias se cierran de manera no efectiva.
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+P_11
+
+ANOMALÍA NÚMERO DOCIENTOS CUATRO.
+VÁLVULA DE CORTE DAÑADA: 
+Este registro se utiliza cuando el técnico llega al predio y constata que no puede realizar la operación debido a que la válvula de corte está dañada, lo que impide llevar a cabo la ejecución. 
+Esta anomalía es aplicable a todo tipo de operaciones, como suspensiones, reconexiones y visitas para la validación de lectura. 
+Estas incidencias se cierran de manera no efectiva.
+
+
+ANOMALÍA NÚMERO QUINIENTOS TREINTA Y TRES.
+SIN ANOMALÍA - REQUIERE VISITA INTEGRAL: 
+Esta anomalía se registra cuando el técnico verifica que no está fluyendo gas o cuando el cliente lo confirma. 
+Este tipo de anomalía se utiliza para operaciones de visitas de validación de lectura, las cuales se pueden cerrar de manera efectiva.
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+BIENVENIDO AL MÓDULO DE LOS MOTORIZADOS, AQUÍ TENDRÁS DISTINTAS OPCIONES. 
+OPRIME CLIC EN EL TEMA DE TU INTERÉS PARA DIRIGIRTE HACIA SU CONTENIDO. ten en cuenta que los temas se clasifican en:
+directrices de BSI, que están representadas por un círculo de color verde al frente de cada tema, y temas de conocimiento general que debes saber, éstos están representados por un círculo de color azul al frente de cada tema.
+los temas que tengan dos círculos, uno de color verde y otro de color azul, es por que ese tema es una directriz de BSI y trata también de conocimiento general. Los temas que veremos en éste módulo son:
+1. COMPORTAMIENTO VIAL
+2. SEÑALES DE TRÁNSITO
+3. INFRACCIONES DE TRÁNSITO
+4. PROCEDIMIENTOS EN SINIESTRO
+5. CONSECUENCIAS
+6. PREOPERACIONAL
+7. PROGRAMAS DE GESTIÓN
+8. PRUEBA MOTORIZADOS

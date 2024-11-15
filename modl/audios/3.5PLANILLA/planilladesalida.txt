@@ -1,0 +1,24 @@
+A continuación se muestra una planilla que sirve para llevar un control detallado de los viajes realizados por los conductores, que  ayudan a la empresa a:
+
+
+Monitorear el uso de vehículos y conductores.
+
+Calcular costos de operación y optimizar recursos (combustible, mantenimiento).
+
+Asegurar cumplimiento de procedimientos internos mediante autorizaciones.
+Así como otros datos logísticos importantes.
+
+aquí vemos la planilla que debe llenar el conductor de vehiculo.
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+p_2
+
+preoperacional - vehiculos
+Consiste en una revisión detallada de las condiciones mecánicas, eléctricas y de seguridad del vehículo, asegurando que esté apto para circular de manera segura y eficiente. 
+Esta inspección incluye la verificación del estado de los neumáticos, niveles de aceite y refrigerante, funcionamiento de luces, frenos y otros sistemas críticos.
+Esta práctica no solo es clave para cumplir con las normativas de seguridad, sino también para optimizar el rendimiento del vehículo y evitar interrupciones en las operaciones diarias de la empresa.
+
+Además, se revisan elementos de seguridad como los cinturones y los extintores. 
+El propósito de esta pre operacional es prevenir fallos mecánicos, reducir riesgos de accidentes y garantizar la seguridad tanto del conductor como de los demás en la vía,
