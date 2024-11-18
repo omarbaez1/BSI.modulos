@@ -1,0 +1,204 @@
+﻿<!DOCTYPE html><!--[if IE]>  <html class="stl_ie"> <![endif]-->
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Inicio BSI</title>
+		<link rel="icon" href="index_files/bsi_colombia.png" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="assets/styles.css">
+		<link rel="stylesheet" type="text/css" href="index_files/style.css" />	
+	</head>
+<body>
+    <!-- Música de fondo -->
+    <audio id="background-music" src="audios/0.INTRODUCCION/musica_de_fondo.mp3" loop>
+        Tu navegador no soporta el elemento de audio.
+    </audio>
+	<div class="button-container">
+	
+<!-- Diapositiva 6: Material y herramientas -->
+<div class="sidebar">
+    <button class="nav-btn">Botón 1</button>
+    <button class="nav-btn">Botón 2</button>
+    <button class="nav-btn">Botón 3</button>
+    <button class="nav-btn">Botón 4</button>
+    <button class="nav-btn">Botón 5</button>
+    <button class="nav-btn">Botón 6</button>
+    <button class="nav-btn">Botón 7</button>
+    <button class="nav-btn">Botón 8</button>
+    <button class="nav-btn">Botón 9</button>
+</div>
+
+
+
+
+
+    <!-- Menú lateral con botón desplegable -->
+    <div class="sidebar">
+    <button class="menu-toggle" onclick="toggleMenu()">
+        <img src="index_files/navar.png" alt="Menú" class="menu-icon">
+    </button>
+	<br><br><br>
+        <div class="menu-content" id="menu-content">
+            <a href="./1.SST.html">Módulo 1 - SST</a>
+            <a href="./2.MOTORIZADOS.html">Módulo 2 - Motorizados</a>
+            <a href="./3.VEHICULOS.html">Módulo 2 - Vehículos</a>
+            <a href="./4.ADMINISTRACION.html">Módulo 3 - Administración</a>
+            <a href="./5.MODULOSSUSPENSION.html">Módulo 4 - Operaciones</a>
+            <a href="./6.CAPACITACIONES.html">Módulo 5 - Capacitación</a>
+        </div>
+    </div>
+
+    <button id="toggle-audio">Reproducir Audio</button>
+	</div>
+
+<!-- Diapositiva 1: Introduccion -->
+<div id="slide1" class="slide active">
+
+	<div id="audio-player">
+		<audio id="toggle-audio" controls>
+			<source src="audios/0.INTRODUCCION/p_1.mp3" type="audio/mpeg">
+			Tu navegador no soporta el elemento de audio.
+		</audio>
+	</div>
+	    <div class="stl_ stl_02">
+		<div class="stl_view">
+			<div class="stl_05 stl_06">
+<div><iframe src="./0.INTRODUCCION/1_1.html" scrolling="no" width="100%" height="1128" frameborder="0"></iframe></div>
+<div style="clear: both; "></div>
+</div>
+			</div>
+		</div>
+	    <!-- Botones de navegacion -->
+    <div class="navigation">
+        <button onclick="nextSlide(1)">Siguiente</button>
+    
+	</div>
+
+</div>
+
+
+
+<!-- Diapositiva 2: Materiales y Herramientas -->
+	    <div id="slide2" class="slide">
+	<div id="audio-player">
+		<audio id="toggle-audio" controls>
+			<source src="audios/0.INTRODUCCION/p_2.mp3" type="audio/mpeg">
+			Tu navegador no soporta el elemento de audio.
+		</audio>
+	</div>
+		<div class="stl_02">
+
+			<div class="stl_view">
+				<div class="stl_05 stl_06">
+<div><iframe src="./0.INTRODUCCION/2_1.html" scrolling="no" width="100%" height="1128" frameborder="0"></iframe></div>
+<div style="clear: both; "></div>
+</div>
+			</div>
+		</div>
+		    <!-- Botones de navegacion -->
+    <div class="navigation">
+        <button onclick="nextSlide(-1)">Anterior</button>
+        <button onclick="nextSlide(1)">Siguiente</button>
+    </div>
+	</div>	
+</div>	
+
+<!-- Diapositiva 3: atencion al cliente -->
+    <div id="slide3" class="slide">
+	<div id="audio-player">
+		<audio id="toggle-audio" controls>
+			<source src="audios/0.INTRODUCCION/p_3.mp3" type="audio/mpeg">
+			Tu navegador no soporta el elemento de audio.
+		</audio>
+	</div>
+		<div class="stl_02">
+
+			<div class="stl_view">
+				<div class="stl_05 stl_06">
+<div><iframe src="./0.INTRODUCCION/3_1.html" scrolling="no" width="100%" height="1128" frameborder="0"></iframe></div>
+<div style="clear: both; "></div>
+</div>
+			</div>
+		</div>
+		    <!-- Botones de navegacion -->
+    <div class="navigation">
+        <button onclick="nextSlide(-1)">Anterior</button>
+        <button onclick="nextSlide(1)">Siguiente</button>
+    </div>
+	</div>	
+</div>
+
+
+<!-- Diapositiva 4: Material y herramientas -->
+    <div id="slide4" class="slide">
+	<div id="audio-player">
+		<audio id="toggle-audio" controls>
+			<source src="audios/0.INTRODUCCION/p_4.mp3" type="audio/mpeg">
+			Tu navegador no soporta el elemento de audio.
+		</audio>
+	</div>		
+		<div class="stl_02">
+			<div class="stl_view">
+				<div class="stl_05 stl_06">
+<div><iframe src="./0.INTRODUCCION/4_1.html" scrolling="no" width="100%" height="1128" frameborder="0"></iframe></div>
+<div style="clear: both; "></div>
+</div>
+			</div>
+			<div class="navigation">
+            <button onclick="nextSlide(-1)">Anterior</button>
+			<button onclick="nextSlide(1)">Siguiente</button>
+        </div>
+	</div>
+</div>	
+
+
+<!-- Diapositiva 5: Material y herramientas --> 
+    <div id="slide5" class="slide">
+	<div id="audio-player">
+		<audio id="toggle-audio" controls>
+			<source src="audios/0.INTRODUCCION/p_5.mp3" type="audio/mpeg">
+			Tu navegador no soporta el elemento de audio.
+		</audio>
+	</div>		
+		<div class="stl_02">
+			<div class="stl_view">
+				<div class="stl_05 stl_06">
+<div><iframe src="./0.INTRODUCCION/5_1.html" scrolling="no" width="100%" height="1128" frameborder="0"></iframe></div>
+<div style="clear: both; "></div>
+
+</div>
+			</div>
+			<div class="navigation">
+            <button onclick="nextSlide(-1)">Anterior</button>
+			<button onclick="nextSlide(1)">Siguiente</button>
+        </div>
+	</div>
+</div>	
+
+
+
+
+<!-- Diapositiva 6: Material y herramientas -->
+    <div id="slide6" class="slide">
+	<div id="audio-player">
+		<audio id="toggle-audio" controls>
+			<source src="audios/0.INTRODUCCION/p_6.mp3" type="audio/mpeg">
+			Tu navegador no soporta el elemento de audio.
+		</audio>
+	</div>		
+		<div class="stl_02">
+			<div class="stl_view">
+				<div class="stl_05 stl_06">
+<div><iframe src="./0.INTRODUCCION/6_1.html" scrolling="no" width="100%" height="1128" frameborder="0"></iframe></div>
+<div style="clear: both; "></div>
+
+</div>
+			</div>
+			<div class="navigation">
+            <button onclick="nextSlide(-1)">Anterior</button>
+        </div>
+	</div>
+</div>
+
+    <script src="app.js"></script>
+</body>
+</html>
